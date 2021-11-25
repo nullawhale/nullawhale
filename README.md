@@ -1,5 +1,3 @@
-[![nullawhale's stats](https://github-readme-stats.vercel.app/api?username=nullawhale&count_private=true&show_icons=true&theme=dark)](#)
-
 [![nullawhale's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nullawhale&layout=compact&theme=dark&langs_count=10&exclude_repo=VKR-TeX&hide=csharp)](#)
 
 <!--
